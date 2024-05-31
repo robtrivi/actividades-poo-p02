@@ -156,7 +156,7 @@ public class Tarea01 {
             System.out.printf("Te quedan %d intentos\n",intentos);
 
         }
-        if (intentos<0) {
+        if (intentos<=0) {
             System.out.println("Has perdido...");
         }
     }
