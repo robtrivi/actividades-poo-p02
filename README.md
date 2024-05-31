@@ -10,7 +10,7 @@ Las soluciones presentadas aquí no son únicas. Existen múltiples maneras de r
 
 ## Secciones del Repositorio
 - [Tareas](https://github.com/robtrivi/actividades-poo-p02/tree/main/tareas)
-- [Talleres](#)
+- [Talleres](https://github.com/robtrivi/actividades-poo-p02/tree/main/talleres)
 ---
 
 Para cualquier consulta o sugerencia, por favor, no dudes en abrir un [issue](https://github.com/robtrivi/actividades-poo-p02/issues) o enviar un [pull request](https://github.com/robtrivi/actividades-poo-p02/pulls).
